@@ -1,1 +1,5 @@
-# python-machine-learning-
+# python-machine-learning-![Screenshot 2023-09-28 182002](https://github.com/CodeForDevelop/python-machine-learning-/assets/133279714/86e76ea0-1ce7-42ba-a4bb-ecb1828cf443)
+![Screenshot 2023-09-28 181932](https://github.com/CodeForDevelop/python-machine-learning-/assets/133279714/e8bfb5a8-b322-4be6-9200-f08c96b4dd6f)
+![Screenshot 2023-09-28 181920](https://github.com/CodeForDevelop/python-machine-learning-/assets/133279714/ebf29c43-8ec1-460f-826a-bbc21718db09)
+![Screenshot 2023-09-28 181909](https://github.com/CodeForDevelop/python-machine-learning-/assets/133279714/9a6e88bf-98a7-4cf2-9027-926c6fdba362)
+![Screenshot 2023-09-28 181901](https://github.com/CodeForDevelop/python-machine-learning-/assets/133279714/d3f7010b-6d7d-4932-83fd-d10597424da5)
